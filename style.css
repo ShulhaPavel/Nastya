@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffd1dc;
+}
+
+header{
+background-color: #ffd1dc;
+padding-top: 10px;
+padding-bottom: 40px;
+}
+
+nav {
+text-align: center;
+}
+
+nav a{
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #00bfff;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: lavender;
+  border-bottom: 5px solid #00bfff;
+}
+
+body main{
+    background-color: #fadadd;
+}
+
+h1{
+    text-align: center;
+    color: #00bfff;
+}
+
+ul img{
+    margin-left: 240px;
+}
+
+body footer{
+    background-color: #ddadaf;
+}
+
