@@ -13,6 +13,16 @@ nav {
 text-align: center;
 }
 
+.navigation a:hover{
+    color:black;
+}
+
+
+.navigation a:focus{
+    background-color: #00bfff;
+    color:#ffd1dc;
+}
+
 nav a{
   text-decoration: none;
   font-family: sans-serif;
@@ -38,5 +48,16 @@ ul img{
 
 body footer{
     background-color: #ddadaf;
+}
+
+table{
+    border-collapse:collapse;
+}
+
+
+td:first-child{
+    background-color: #00bfff;
+    border: 3px solid black;
+
 }
 
